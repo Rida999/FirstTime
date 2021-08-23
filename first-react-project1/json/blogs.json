@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "name": "rida",
+      "password": "Apple_456",
+      "color": "",
+      "id": 4
+    },
+    {
+      "name": "rida",
+      "password": "ajam",
+      "color": "red",
+      "id": 5
+    },
+    {
+      "name": "rida",
+      "password": "ajam",
+      "color": "blue",
+      "id": 6
+    },
+    {
+      "name": "rida",
+      "password": "ajam",
+      "color": "red",
+      "id": 7
+    },
+    {
+      "name": "rida",
+      "password": "1234",
+      "color": "red",
+      "id": 8
+    },
+    {
+      "name": "rida",
+      "password": "ajam",
+      "color": "red",
+      "id": 9
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.rightClickBehavior": "selectWord",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
