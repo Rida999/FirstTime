@@ -95,6 +95,7 @@ input,select{
 }
 
 button{
+  margin: auto;
   background-color: #f1356d;
   font-size: 20px;
   border-radius: 4px;
